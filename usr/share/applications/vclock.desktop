@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=1.0
+Exec=vclock-upr.sh
+Icon=/usr/share/icons/vclock.png
+Terminal=false
+Type=Application
+Categories=Office;Clocks;GNOME;GTK;
+Name=Mówiący zegar
+GenericName=Mówiący zegar
+Comment=Zarządzanie skryptem mówiącego zegara
+GenericName[pl]=Zarządzanie skryptem mówiącego zegara
+
