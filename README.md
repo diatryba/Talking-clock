@@ -24,7 +24,9 @@ https://soundoftext.com/
 
 Uwaga!
 W Arch Linux, gdy korzystasz z cronie a Mówiący zegar nie działa, uruchom w konsoli:
+
 sudo systemctl enable cronie.service
+
 sudo systemctl start cronie.service
 
 Autor	Sakryukin K.V.
@@ -55,5 +57,8 @@ https://soundoftext.com/
 
 Предупреждение!
 В Arch Linux при использовании cronie и неработающих Говорящих часах выполните в консоли:
+
 sudo systemctl enable cronie.service
+
 sudo systemctl start cronie.service
+
