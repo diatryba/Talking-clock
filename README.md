@@ -1,6 +1,7 @@
 # Talking-clock
 
 Niestety strona autora mówiącego zegara już nie jest dostępna w Internecie.
+Pozostały ślady w archiwach: https://web.archive.org/web/20180108075018/http://sakryukin.ru/
 
 Mówiący zegar 1.5.1 Linux
 Opis:	Mówiący zegar.
@@ -31,6 +32,11 @@ sudo systemctl start cronie.service
 
 Autor	Sakryukin K.V.
 data	19 grudnia 2014 18:35:23
+
+
+К сожалению, сайт автора говорящих часов больше недоступен в Интернете.
+Следы остались в архивах: https://web.archive.org/web/20180108075018/http://sakryukin.ru/
+
 
 Говорящие часы 1.5.1 Linux
 Описание:	Говорящие часы.
